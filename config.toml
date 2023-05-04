@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'I don't care if you read this'
+title = 'I dont care if you read this'
 theme = 'tailwindcss'
